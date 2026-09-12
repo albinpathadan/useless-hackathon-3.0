@@ -40,4 +40,10 @@ python -m streamlit run app.py
 Project Documentation
 For Software:
 
+Screenshots
+<img width="1916" height="955" alt="Screenshot 2026-09-12 080429" src="https://github.com/user-attachments/assets/79060279-58ad-4503-84a8-74a274bb8b11" />
+
+Project Demo
+https://github.com/user-attachments/assets/8c329584-c13c-4cd1-8bb1-940054a730fd
+
 
